@@ -1,6 +1,6 @@
 ## Hi, <a href="https://gianmarco-who-am-i.web.app/#/home">I'm Gianmarco</a> 👋 👨🏻‍💻
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width="20px" height="20px"> I’m working at Infovista as Kubernetes & Deployment Team Lead
+- <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width="20px" height="20px"> I’m working at Infovista as Kubernetes & Platform Architect
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width="20px" height="20px">  In my free time I'm learning Solidity language and I'm building a DeFi application to mint NFT on Ethereum blockchain
 - 🌱 My goal is to make everyday life easier with the help of code
 - <img src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4" width="20px" height="20px"> [Home Assistant](https://github.com/home-assistant/core) fan!
